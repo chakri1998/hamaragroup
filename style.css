@@ -1,11 +1,11 @@
 .navStyle {
-  background-color: #ff5722;
+  background-color: #ffffff;
 
-  color: white;
+  color: black;
 }
 
 .jumboStyle {
-  color: white;
+  color: black;
   background: url("./assets//images/banner.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
