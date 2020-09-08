@@ -1,0 +1,44 @@
+.navStyle {
+  background-color: white;
+
+  color: black;
+}
+nav .navbar-nav li a{
+  color: black !important;
+  }
+      button span {
+    /*overwriting*/
+    color:black;
+    font-size: 25px;
+}
+.jumboStyle {
+  color: black;
+  background: url("./assets/images/banner.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.bottomright {
+ position: absolute;
+     bottom: -30px;
+     right: 0px;
+}
+/* about */
+.aboutImageStyle {
+  width: 50%;
+}
+
+.topright {
+    position: fixed; /* or position: absolute; */
+    top: 0;
+    right: 0;
+}
+/*  services style */
+
+/* People Image Style */
+.peopleImageStyle {
+  width: 10em;
+
+  border-radius: 50%;
+}
